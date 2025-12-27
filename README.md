@@ -7,7 +7,7 @@ FabricDraper is an exploratory textile‑driven cloth simulation built on Three.
 
 ---
 
-### Textile Focus
+### Focus
 
 This project is **not** a generic game cloth demo: it is explicitly framed around textile behavior and how end users “feel” fabric digitally.
 
