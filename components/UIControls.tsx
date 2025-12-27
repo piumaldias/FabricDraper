@@ -59,7 +59,7 @@ export const UIControls: React.FC<UIControlsProps> = ({
             id="stiffness"
             type="range"
             min="0"
-            max="0.7"
+            max="0.9"
             step="0.01"
             value={stiffness}
             onChange={(e) => setStiffness(parseFloat(e.target.value))}
