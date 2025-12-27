@@ -1,0 +1,5 @@
+{
+  "name": "Cloth vs Sphere Sim",
+  "description": "A 3D simulation of a fabric cloth dropping onto a sphere using Verlet integration. Features adjustable material stiffness and interactivity.",
+  "requestFramePermissions": []
+}
